@@ -1,0 +1,8 @@
+# Dashboard Manifest
+applications:
+- name: bigdatastories
+memory: 512MB
+disk_quota: 80MB
+host: bigdatastories
+path: public
+buildpack:  staticfile_buildpack
