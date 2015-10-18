@@ -44,3 +44,9 @@ Temporary Items
 
 # Hugo-generated static content
 /public
+
+#Hugo themes
+themes/*
+!themes/hyde
+
+

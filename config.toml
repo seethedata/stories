@@ -1,9 +1,9 @@
-baseurl = "http://bigdatastories.cfapps.io"
+baseurl = "http://bigdatastories.cfapps.io/"
 languageCode = "en-us"
 title = "Data Analytics Stories"
 
 [params]
 	sidebartitle = "Data Analytics Stories"
-	sidebartagline = "brought to you by the EMC Pathfinders"
-    sidebarphoto = "/images/Pathfinder.png"
+	description = "brought to you by the EMC Pathfinders"
+
 	
