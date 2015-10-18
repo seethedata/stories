@@ -1,8 +1,7 @@
 baseurl = "http://bigdatastories.cfapps.io/"
 languageCode = "en-us"
 title = "Data Analytics Stories"
-
 [params]
 	description = "brought to you by the EMC Pathfinders"
 
-	
+
