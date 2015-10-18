@@ -1,6 +1,6 @@
 +++
 date = "2015-10-16T21:29:31-04:00"
-draft = true
+draft = false
 title = "Health System"
 +++
 
@@ -13,3 +13,5 @@ Looking at the data collected, as well as the analyses previously done by the ho
 When presented with this insight, the hospital began to investigate its internal processes that involved transfer of patients between departments. It turns out that these were not particularly structured or repeatable processes and there were few checks in place to assure correctness. 
 
 Once a more formalized system for patient transfer was implemented, the readmission rates dropped significantly.
+
+-----------------

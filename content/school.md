@@ -1,6 +1,6 @@
 +++
 date = "2015-10-16T21:29:24-04:00"
-draft = true
+draft = false
 title = "Charter School"
 +++
 
@@ -17,3 +17,5 @@ We also made general recommendations about the relationship among the various su
 At the administration level, we also helped them create a data-driven approach to the use of grant money. The general idea is that the grant money should be applied to the project that is expected to increase student performance the most. For example, let's say there are three plans for how a certain grant was to be used - add 1,000 iPads to the classroom, provide specialized training to the teachers, or add one field trip to the agenda per semester. To make this decision, the expected impact on student performance was calculated as a score for each option, and the option with the highest score was the one that was funded.
 
 Ultimately, providing teachers these advanced levels on insights about their students has become a reason to continue working at this school. In addition, student performance has also increased.
+
+-------------------------
