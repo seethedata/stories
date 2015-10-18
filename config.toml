@@ -3,7 +3,6 @@ languageCode = "en-us"
 title = "Data Analytics Stories"
 
 [params]
-	sidebartitle = "Data Analytics Stories"
 	description = "brought to you by the EMC Pathfinders"
 
 	
