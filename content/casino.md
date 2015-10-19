@@ -13,5 +13,3 @@ We also identified interesting up sell opportunities based on this data. When a 
 In addition, this casino had a data set they knew was valuable but they were unable to work with it. This was the evaluation of players by their wait staff, like the shoes or watch a player would be wearing or how generous their tipping would be. The wait staff would sometimes make notes on napkins about these things but this was unusable. We helped them by creating an iPad app that allowed the servers to handle their normal duties like collect drink orders and also provided a space for their notes on players. Now this this data was digitized, it was able to be included in the data analysis.
 
 Over all, based on the work we did, this casino was able to realize an additional $40 million dollars a year.
-
----------------

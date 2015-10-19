@@ -10,5 +10,3 @@ A Canadian public utility was having issues with stolen power. The reason for th
 We were brought in to help find ways of identifying theft and fraud. By building a map of the electric system and calculating the expected amount of power at each meter, we were able to build a model that would identify abnormalities and assign them a score to indicate how likely the loss was due to theft.
 
 The bottom line was that this model correctly identified fraud over 80% of the time and this resulting in the utility recouping millions of dollars per year.
-
-------------------
