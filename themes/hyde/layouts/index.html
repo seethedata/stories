@@ -15,7 +15,10 @@
     </h1>
 	<span class="post-reading-time"><i class="fa fa-clock-o"></i> <em>{{.ReadingTime}} min. read</em></span>
     <span class="post-date">{{ .Date.Format "Mon, Jan 2, 2006" }}</span>
-	{{ .Content }}
+	{{ .Summary }}
+	<div class="read-more-link">
+				<a href="{{ .RelPermalink }}"><i class="fa fa-caret-square-o-right"></i> Read More...</a>
+			</div>
   </div>
   {{ end }}
 </div>
