@@ -1,0 +1,20 @@
++++
+date = "2015-10-27T10:38:43-04:00"
+draft = false
+title = "Retail"
+
++++
+
+Target made headlines with their approach to Big Data, and not in a good way. Although their data science was impeccable, their approach may have lacked a little tact. Their original question was whether they could accurately predict whether someone was pregnant by the shifts in their purchasing patterns. Anyone who has had children can attest to altered sensitivity to smells, foods, etc. 
+ 
+Target deployed an analytics effort, and began targeting direct mailing adds to people the algorithm flagged as “likely pregnant.” The upshot of it was that a father sued Target for their inappropriate ads for diapers and baby wipes sent to his 17 year old daughter. He later had to drop the suit when his daughter informed him that she was indeed pregnant. 
+ 
+Today, these retail chains are using big data in ways most of us haven’t even thought of. From the time you walk into a store, you are tracked and analyzed not on an aggregate level (“customers between the ages of 20 and 45”) but as an individual. “What does John Smith like, do, want, who is he talking to, where has he been before this, and where did he go in our store, and afterwards?” To do this, many large chains today are tracking the MAC ID of your mobile device through the store, to see where you go, and where you linger. When you pass the register, your card swipe now informs them of your identity. This data can be coupled with information about where you were before you entered their store, and where you go afterwards, (enabled by companies like Point Inside in Seattle) and what you say in the social space within their store and their competitors (enabled by companies like Venue Labs in Seattle). When all this information is paired with your online browsing history, a very complete picture of your interests and desires become available to the retailer. 
+ 
+All this is being done today. Digital Leaders in the retail space are adept at targeting you with offers that arrive while you are still in the buying cycle. However, let’s look to the future. When retailers use functional MRI technologies, where the test subject watches their ads in an MRI machine, they can finely tune their ads to trigger the responses they want, whether pleasure, anger, desire, or disgust. Omni-channel strategies (marrying the online and physical worlds) have been deployed to mixed effect in some cases, and excellent effect in others. In one retail chain, people found it to be disturbing when billboards began changing around them as they moved through the store, whose content was inspired by their online (out of store) browsing history. Apparently, some things are still best left private, even in a very public and connected world.
+ 
+However, other brands with better judgement like Burberry are exploiting omni-channel strategies to good effect. We can safely predict a future where an MRI machine is no longer needed to read your response to an ad, and that this will be able to be done from a distance. When we couple your personal and social network data, individual history, browsing data, consumption history, and real-time location data, with the ability to read your reaction in real time, it’s easy to see where we will go from here. 
+ 
+Imagine walking along a street and seeing an ad for chocolate chip cookies, your guilty pleasure. Hungry, you wince and look away, reminding yourself of your New Year's resolution. A block later, the ads now feature your grandmother’s face (who you adore) on the lady offering you cookies. A block further still, the ads now feature that celebrity you find irresistible, now slowly devouring a chocolate chip cookie while deep in conversation with you in your kitchen. The smell of chocolate chip cookies wafts across the sidewalk as you ruefully head into the cafe, making a mental note to look into those face-obscuring and MRI blocking “Daft Punk” style helmets that the privacy geeks keep advocating. This really IS getting out of hand. . . . . .
+ 
+ 
